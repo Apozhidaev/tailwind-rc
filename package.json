@@ -1,0 +1,8 @@
+{
+  "name": "tailwind-rc",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Apozhidaev/tailwind-rc.git",
+  "author": "alexanderpo <alexander.pozhidaev@gmail.com>",
+  "license": "MIT"
+}
